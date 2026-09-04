@@ -10,4 +10,3 @@ Endpoint para validar transacciones de pago entrantes en el sistema.
 * `transaction_id` (String): Identificador único de la transacción.
 * `amount` (Number): Monto del pago.
 * `status` (String): Estado retornado por la pasarela (`APPROVED`, `REJECTED`).
- <!-- Actualización PSWPB-5 -->
